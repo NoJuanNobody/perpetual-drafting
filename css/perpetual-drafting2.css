@@ -1,0 +1,35 @@
+li {
+display: inline-block;
+margin: 20px;
+text-align: center;
+}
+.intro {
+    display: table;
+    width: 100%;
+    height: auto;
+    padding: 0px 0;
+    text-align: center;
+    color: #fff;
+    background: url(file:///Users/Alejandro/Documents/FIRST%20WEBPAGE/project/perpetual%20drafting/img/pink-walls.jpg) no-repeat bottom center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.navbar{
+	margin-bottom: 0px;
+}
+.main-heading{
+	font-family: 'Advent Pro', sans-serif;
+	font-size: 10em;
+}
+.logo{
+	width:50px;
+	margin: 20px;
+}
+ul{
+font-family: 'Advent pro',sans-serif;
+font-size: 1.5em;
+letter-spacing: 5px;
+}
